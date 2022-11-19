@@ -21,5 +21,9 @@ The project aims to predict the failure of an engine by using Machine Learning t
 ![image](https://user-images.githubusercontent.com/113543704/202860257-198b6c1f-1dd6-48e2-9eb8-f367abd23589.png)
 
 
-# Project demo vedio Link: [view file]( )
+# Project demo vedio Link: [view file](    
+
+https://user-images.githubusercontent.com/113543704/202865909-0fd0f7ee-4870-4429-9bb2-f9290b8291e0.mp4
+
+
 
