@@ -24,7 +24,8 @@ The project aims to predict the failure of an engine by using Machine Learning t
 # Tecnical architecture
 ![image](https://user-images.githubusercontent.com/113543704/202860257-198b6c1f-1dd6-48e2-9eb8-f367abd23589.png)
 
-PROJECT REPORT:(https://github.com/IBM-EPBL/IBM-Project-54339-1661851835/files/10048356/Project.report.pdf)
+PROJECT REPORT:(  [Project Report...pdf](https://github.com/IBM-EPBL/IBM-Project-54339-1661851835/files/10066877/Project.Report.pdf)
+ )
 
 
 
