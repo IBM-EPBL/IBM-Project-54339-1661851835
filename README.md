@@ -34,5 +34,5 @@ PROJECT REPORT:
 Project demo vedio Link :
 (https://user-images.githubusercontent.com/113543704/202865909-0fd0f7ee-4870-4429-9bb2-f9290b8291e0.mp4)
 
-RUNNING ON:( http://127.0.0.1:5000/)
+
 
