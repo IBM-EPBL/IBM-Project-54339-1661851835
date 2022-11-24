@@ -1,6 +1,9 @@
 # IBM-Project-54339-1661851835
 # TITLE:
-   #   Machine Learning-Based Predictive Analytics for Aircraft Engine![aircraft gif](https://user-images.githubusercontent.com/113543704/202881033-f40f30ee-f8b6-427e-bf7e-264527ce05aa.gif)
+   #   Machine Learning-Based Predictive Analytics for Aircraft Engine
+
+![
+aircraft gif](https://user-images.githubusercontent.com/113543704/202881033-f40f30ee-f8b6-427e-bf7e-264527ce05aa.gif)
 
    
   
